@@ -1,0 +1,10 @@
+Package: pkgdown.masking
+Type: Package
+Title: Masks
+Version: 1.0.0
+Authors@R: person("Me", "Good", role = c("aut", "cre"), email = "me@good.com")
+Depends: R (>= 3.3.0)
+RoxygenNote: 6.1.0
+Encoding: UTF-8
+Suggests: 
+    testthat
