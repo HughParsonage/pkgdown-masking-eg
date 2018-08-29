@@ -6,5 +6,6 @@
 #' @export 
 in_range <- function(x, a, b) all(between(x, a, b))
 
+# Just to confuse dplyr
 between <- function(y, a, b) y >= a & y <= b
 
